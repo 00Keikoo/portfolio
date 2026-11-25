@@ -1,4 +1,4 @@
-# Portofolio Bagas Wicaksono
+# Portofolio Andika Zafka Ujfaluzi
 
 Website portofolio pribadi, dibangun dengan Next.js, TypeScript, dan Tailwind CSS.
 
